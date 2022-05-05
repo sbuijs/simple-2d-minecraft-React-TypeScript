@@ -1,5 +1,35 @@
+<div id="top"></div>
+
+
+<h1 align="left">Simple guessing game</h1>
+  <p align="left">
+Simple Minecraft like click and build tool, created with ReactJS and Typescript.<br/>
+       <a href="https://sbuijs.github.io/simple-2d-minecraft-React-TypeScript/">View Demo</a>
+  </p>
+</div>
+<br/>
+<br/>
+<img width="1552" alt="Screenshot 2022-05-05 at 20 53 33" src="https://user-images.githubusercontent.com/1607627/167004637-5a6ab54d-2993-48c5-98b8-27320ce6c7fa.png">
+
+## Built With
+- ReactJS
+- Typescript
+
+
+## Contact
+
+Stephanie Buijs - buijs.s@gmail.com<br/>
+Project Link: [https://github.com/sbuijs/simple-2d-minecraft-React-TypeScript](https://github.com/sbuijs/simple-2d-minecraft-React-TypeScript)<br/>
+
+
+<p align="left">(<a href="#top">back to top</a>)</p>
+
+---
+---
+
+## 
 Made use of styled components
-npm install styled-components --save-dev
+To install: npm install styled-components --save-dev
 
 # Getting Started with Create React App
 
