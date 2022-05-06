@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "/simple-2d-minecraft-React-TypeScript/static/css/main.abd64e84.css",
-    "main.js": "/simple-2d-minecraft-React-TypeScript/static/js/main.8b900a6f.js",
+    "main.js": "/simple-2d-minecraft-React-TypeScript/static/js/main.18f0bb3b.js",
     "static/media/tnt.svg": "/simple-2d-minecraft-React-TypeScript/static/media/tnt.9e85ffc1abfb3d0e012c557cffdeb732.svg",
     "static/media/grassDirt.svg": "/simple-2d-minecraft-React-TypeScript/static/media/grassDirt.9856b4cca764758decd3de7cd308ddb7.svg",
     "static/media/water.svg": "/simple-2d-minecraft-React-TypeScript/static/media/water.74d3a4f8cb4d1403f0d4d3eadbe35279.svg",
     "static/media/grass.svg": "/simple-2d-minecraft-React-TypeScript/static/media/grass.17e57463cfe3c8e92615ea0ada7d2118.svg",
-    "index.html": "/simple-2d-minecraft-React-TypeScript/index.html",
     "static/media/dirt.svg": "/simple-2d-minecraft-React-TypeScript/static/media/dirt.7c3d0d833f4ab7e65b0add3e2e7fb674.svg",
+    "index.html": "/simple-2d-minecraft-React-TypeScript/index.html",
     "static/media/air.svg": "/simple-2d-minecraft-React-TypeScript/static/media/air.e3737e981b16d765437849ddfa3956fb.svg",
-    "main.abd64e84.css.map": "/simple-2d-minecraft-React-TypeScript/static/css/main.abd64e84.css.map",
-    "main.8b900a6f.js.map": "/simple-2d-minecraft-React-TypeScript/static/js/main.8b900a6f.js.map"
+    "main.18f0bb3b.js.map": "/simple-2d-minecraft-React-TypeScript/static/js/main.18f0bb3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.8b900a6f.js"
+    "static/js/main.18f0bb3b.js"
   ]
 }
