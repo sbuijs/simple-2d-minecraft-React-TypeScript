@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>water</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="water">
+            <rect fill="#3FA6D4" x="0" y="0" width="75" height="75"></rect>
+            <g id="Group-Copy" transform="translate(37.500000, 37.875000) scale(-1, -1) translate(-37.500000, -37.875000) translate(16.500000, 16.500000)" fill="#2E91BD">
+                <rect id="Rectangle-Copy-4" x="0" y="0" width="8.25" height="8.25"></rect>
+                <rect id="Rectangle-Copy-5" x="33.75" y="3.75" width="8.25" height="8.25"></rect>
+                <rect id="Rectangle-Copy-6" x="3" y="30.75" width="8.25" height="8.25"></rect>
+                <rect id="Rectangle-Copy-7" x="29.25" y="34.5" width="8.25" height="8.25"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
