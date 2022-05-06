@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/simple-2d-minecraft-React-TypeScript/static/css/main.abd64e84.css",
-    "main.js": "/simple-2d-minecraft-React-TypeScript/static/js/main.b713dbab.js",
+    "main.js": "/simple-2d-minecraft-React-TypeScript/static/js/main.5194f0c3.js",
     "index.html": "/simple-2d-minecraft-React-TypeScript/index.html",
+    "static/media/dirt.svg": "/simple-2d-minecraft-React-TypeScript/static/media/dirt.7c3d0d833f4ab7e65b0add3e2e7fb674.svg",
     "main.abd64e84.css.map": "/simple-2d-minecraft-React-TypeScript/static/css/main.abd64e84.css.map",
-    "main.b713dbab.js.map": "/simple-2d-minecraft-React-TypeScript/static/js/main.b713dbab.js.map"
+    "main.5194f0c3.js.map": "/simple-2d-minecraft-React-TypeScript/static/js/main.5194f0c3.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.b713dbab.js"
+    "static/js/main.5194f0c3.js"
   ]
 }
